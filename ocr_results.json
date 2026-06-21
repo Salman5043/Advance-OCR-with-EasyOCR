@@ -1,0 +1,411 @@
+{
+  "raw_results": [
+    [
+      [
+        [
+          33,
+          84
+        ],
+        [
+          587,
+          84
+        ],
+        [
+          587,
+          127
+        ],
+        [
+          33,
+          127
+        ]
+      ],
+      "This is a lot of 12 point text to test the",
+      0.7515471782474253
+    ],
+    [
+      [
+        [
+          31,
+          121
+        ],
+        [
+          485,
+          121
+        ],
+        [
+          485,
+          157
+        ],
+        [
+          31,
+          157
+        ]
+      ],
+      "ocr code and see if it works on",
+      0.9301597694063997
+    ],
+    [
+      [
+        [
+          495,
+          123
+        ],
+        [
+          625,
+          123
+        ],
+        [
+          625,
+          163
+        ],
+        [
+          495,
+          163
+        ]
+      ],
+      "all types",
+      0.9978408899985456
+    ],
+    [
+      [
+        [
+          31,
+          154
+        ],
+        [
+          227,
+          154
+        ],
+        [
+          227,
+          191
+        ],
+        [
+          31,
+          191
+        ]
+      ],
+      "of file format:",
+      0.7233347825715364
+    ],
+    [
+      [
+        [
+          32,
+          184
+        ],
+        [
+          592,
+          184
+        ],
+        [
+          592,
+          233
+        ],
+        [
+          32,
+          233
+        ]
+      ],
+      "The quick brown dog jumped over the",
+      0.8490545594595839
+    ],
+    [
+      [
+        [
+          29,
+          220
+        ],
+        [
+          591,
+          220
+        ],
+        [
+          591,
+          265
+        ],
+        [
+          29,
+          265
+        ]
+      ],
+      "lazy fox The quick brown dog jumped",
+      0.8124401513857913
+    ],
+    [
+      [
+        [
+          31,
+          255
+        ],
+        [
+          605,
+          255
+        ],
+        [
+          605,
+          299
+        ],
+        [
+          31,
+          299
+        ]
+      ],
+      "over the lazy fox. The quick brown dog",
+      0.8062025197001981
+    ],
+    [
+      [
+        [
+          39,
+          287
+        ],
+        [
+          568,
+          287
+        ],
+        [
+          568,
+          332
+        ],
+        [
+          39,
+          332
+        ]
+      ],
+      "jumped over the lazy fox. The quick",
+      0.5960078814476353
+    ],
+    [
+      [
+        [
+          32,
+          321
+        ],
+        [
+          568,
+          321
+        ],
+        [
+          568,
+          369
+        ],
+        [
+          32,
+          369
+        ]
+      ],
+      "brown dog jumped over the lazy fox.",
+      0.7642401091508723
+    ]
+  ],
+  "filtered_results": [
+    {
+      "text": "This is a lot of 12 point text to test the",
+      "confidence": 0.7515471782474253,
+      "bbox": [
+        [
+          33,
+          84
+        ],
+        [
+          587,
+          84
+        ],
+        [
+          587,
+          127
+        ],
+        [
+          33,
+          127
+        ]
+      ]
+    },
+    {
+      "text": "ocr code and see if it works on",
+      "confidence": 0.9301597694063997,
+      "bbox": [
+        [
+          31,
+          121
+        ],
+        [
+          485,
+          121
+        ],
+        [
+          485,
+          157
+        ],
+        [
+          31,
+          157
+        ]
+      ]
+    },
+    {
+      "text": "all types",
+      "confidence": 0.9978408899985456,
+      "bbox": [
+        [
+          495,
+          123
+        ],
+        [
+          625,
+          123
+        ],
+        [
+          625,
+          163
+        ],
+        [
+          495,
+          163
+        ]
+      ]
+    },
+    {
+      "text": "of file format:",
+      "confidence": 0.7233347825715364,
+      "bbox": [
+        [
+          31,
+          154
+        ],
+        [
+          227,
+          154
+        ],
+        [
+          227,
+          191
+        ],
+        [
+          31,
+          191
+        ]
+      ]
+    },
+    {
+      "text": "The quick brown dog jumped over the",
+      "confidence": 0.8490545594595839,
+      "bbox": [
+        [
+          32,
+          184
+        ],
+        [
+          592,
+          184
+        ],
+        [
+          592,
+          233
+        ],
+        [
+          32,
+          233
+        ]
+      ]
+    },
+    {
+      "text": "lazy fox The quick brown dog jumped",
+      "confidence": 0.8124401513857913,
+      "bbox": [
+        [
+          29,
+          220
+        ],
+        [
+          591,
+          220
+        ],
+        [
+          591,
+          265
+        ],
+        [
+          29,
+          265
+        ]
+      ]
+    },
+    {
+      "text": "over the lazy fox. The quick brown dog",
+      "confidence": 0.8062025197001981,
+      "bbox": [
+        [
+          31,
+          255
+        ],
+        [
+          605,
+          255
+        ],
+        [
+          605,
+          299
+        ],
+        [
+          31,
+          299
+        ]
+      ]
+    },
+    {
+      "text": "jumped over the lazy fox. The quick",
+      "confidence": 0.5960078814476353,
+      "bbox": [
+        [
+          39,
+          287
+        ],
+        [
+          568,
+          287
+        ],
+        [
+          568,
+          332
+        ],
+        [
+          39,
+          332
+        ]
+      ]
+    },
+    {
+      "text": "brown dog jumped over the lazy fox.",
+      "confidence": 0.7642401091508723,
+      "bbox": [
+        [
+          32,
+          321
+        ],
+        [
+          568,
+          321
+        ],
+        [
+          568,
+          369
+        ],
+        [
+          32,
+          369
+        ]
+      ]
+    }
+  ],
+  "full_text": "This is a lot of 12 point text to test the ocr code and see if it works on all types of file format: The quick brown dog jumped over the lazy fox The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox.",
+  "confidence_stats": {
+    "mean": 0.8034253157075543,
+    "min": 0.5960078814476353,
+    "max": 0.9978408899985456,
+    "std": 0.11039995590938458
+  },
+  "word_count": 60,
+  "line_count": 9
+}
